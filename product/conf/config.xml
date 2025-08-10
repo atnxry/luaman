@@ -1,0 +1,560 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Root>
+<Copy>
+<CopyName value="000"/>
+<loop_num value="0"/>
+<taskType value="6"/>
+<MixCopy>
+<CopyName value="Ex175"/>
+<copyrolenr value="0"/>
+<loop_num value="0"/>
+<taskType value="19"/>
+<direction value="0"/>
+<role value="0"/>
+<groupid value="0"/>
+<maxBlueFiled value="4"/>
+<minBlue value="4"/>
+<blueThreshold value="2000"/>
+<alarmServer value="127.0.0.1"/>
+<alarmPort value="9191"/>
+<alarmHostIndex value="0"/>
+<playWndIndexVal value="0"/>
+<Wait2Sleep value="0"/>
+<exitGameCopyFull value="0"/>
+<cleanPackageWhenStart value="0"/>
+<callbabydie value="0"/>
+<bluebloodWidth value="4"/>
+<bluebloodLowLevel value="2000"/>
+<syncCountMax value="2"/>
+<bluebloodChecktime value="0"/>
+<blockTimes value="2"/>
+<waitCopytime value="18"/>
+<cleanPackageTime value="2"/>
+<cleanPackageX value="0"/>
+<buddyName value=""/>
+<swjdIndex value="0"/>
+<BindHostIdx value="0"/>
+</MixCopy>
+<BindInfo>
+<BindWnd value="0"/>
+<Account>
+<UserName value="tzdk1911lmq"/>
+<Password value="qwer966699"/>
+<PasswordEx value="9999"/>
+</Account>
+<Account>
+<UserName value="tzdk1912lmq"/>
+<Password value="qwer966699"/>
+<PasswordEx value="9999"/>
+</Account>
+<Account>
+<UserName value="tzdk1913lmq"/>
+<Password value="qwer966699"/>
+<PasswordEx value="9999"/>
+</Account>
+<Account>
+<UserName value="tzdk1914lmq"/>
+<Password value="qwer966699"/>
+<PasswordEx value="9999"/>
+</Account>
+<Account>
+<UserName value="tzdk1915lmq"/>
+<Password value="qwer966699"/>
+<PasswordEx value="9999"/>
+</Account>
+<Account>
+<UserName value="tzdk1906lmq"/>
+<Password value="qwer966699"/>
+<PasswordEx value="9999"/>
+</Account>
+<Account>
+<UserName value="tzdk1907lmq"/>
+<Password value="qwer966699"/>
+<PasswordEx value="9999"/>
+</Account>
+<Account>
+<UserName value="tzdk1908lmq"/>
+<Password value="qwer966699"/>
+<PasswordEx value="9999"/>
+</Account>
+<Account>
+<UserName value="tzdk1909lmq"/>
+<Password value="qwer966699"/>
+<PasswordEx value="9999"/>
+</Account>
+<Account>
+<UserName value="tzdk1910lmq"/>
+<Password value="qwer966699"/>
+<PasswordEx value="9999"/>
+</Account>
+</BindInfo>
+<BindInfo>
+<BindWnd value="1"/>
+<Account>
+<UserName value="tzdk1911lmq"/>
+<Password value="qwer966699"/>
+<PasswordEx value="9999"/>
+</Account>
+<Account>
+<UserName value="tzdk1912lmq"/>
+<Password value="qwer966699"/>
+<PasswordEx value="9999"/>
+</Account>
+<Account>
+<UserName value="tzdk1913lmq"/>
+<Password value="qwer966699"/>
+<PasswordEx value="9999"/>
+</Account>
+<Account>
+<UserName value="tzdk1914lmq"/>
+<Password value="qwer966699"/>
+<PasswordEx value="9999"/>
+</Account>
+<Account>
+<UserName value="tzdk1915lmq"/>
+<Password value="qwer966699"/>
+<PasswordEx value="9999"/>
+</Account>
+</BindInfo>
+<BindInfo>
+<BindWnd value="2"/>
+<Account>
+<UserName value="lap0095"/>
+<Password value="qwer966699"/>
+<PasswordEx value="9999"/>
+</Account>
+</BindInfo>
+<BindInfo>
+<BindWnd value="3"/>
+<Account>
+<UserName value="tzdk1604lmq"/>
+<Password value="qwer966699"/>
+<PasswordEx value="9999"/>
+</Account>
+</BindInfo>
+<BindInfo>
+<BindWnd value="4"/>
+<Account>
+<UserName value="tzdk1605lmq"/>
+<Password value="qwer966699"/>
+<PasswordEx value="9999"/>
+</Account>
+</BindInfo>
+<direction value="1"/>
+<role value="1"/>
+<groupid value="0"/>
+<maxBlueFiled value="4"/>
+<minBlue value="4"/>
+<blueThreshold value="3000"/>
+<alarmServer value="127.0.0.1"/>
+<alarmPort value="9191"/>
+<alarmHostIndex value="0"/>
+<playWndIndexVal value="0"/>
+<Wait2Sleep value="0"/>
+<exitGameCopyFull value="1"/>
+<cleanPackageWhenStart value="1"/>
+<callbabydie value="0"/>
+<bluebloodWidth value="4"/>
+<bluebloodLowLevel value="3000"/>
+<syncCountMax value="2"/>
+<bluebloodChecktime value="10"/>
+<blockTimes value="30"/>
+<waitCopytime value="27"/>
+<cleanPackageTime value="3"/>
+<cleanPackageX value="-1"/>
+<MixCopyLoopNum value="0"/>
+<BindHostIdx value="0"/>
+</Copy>
+<Copy>
+<CopyName value="ExSingle"/>
+<loop_num value="-1"/>
+<taskType value="17"/>
+<direction value="1"/>
+<role value="1"/>
+<groupid value="0"/>
+<maxBlueFiled value="4"/>
+<minBlue value="4"/>
+<blueThreshold value="3000"/>
+<alarmServer value="127.0.0.1"/>
+<alarmPort value="9191"/>
+<alarmHostIndex value="0"/>
+<playWndIndexVal value="0"/>
+<Wait2Sleep value="0"/>
+<exitGameCopyFull value="1"/>
+<cleanPackageWhenStart value="1"/>
+<callbabydie value="0"/>
+<bluebloodWidth value="4"/>
+<bluebloodLowLevel value="3000"/>
+<syncCountMax value="2"/>
+<bluebloodChecktime value="10"/>
+<blockTimes value="30"/>
+<waitCopytime value="27"/>
+<cleanPackageTime value="3"/>
+<cleanPackageX value="2006353150"/>
+<BindHostIdx value="7460688"/>
+</Copy>
+<Copy>
+<CopyName value="signin"/>
+<loop_num value="-1"/>
+<taskType value="7"/>
+<direction value="1"/>
+<role value="1"/>
+<groupid value="0"/>
+<maxBlueFiled value="4"/>
+<minBlue value="4"/>
+<blueThreshold value="3000"/>
+<alarmServer value="127.0.0.1"/>
+<alarmPort value="9191"/>
+<alarmHostIndex value="0"/>
+<playWndIndexVal value="0"/>
+<Wait2Sleep value="0"/>
+<exitGameCopyFull value="1"/>
+<cleanPackageWhenStart value="1"/>
+<callbabydie value="0"/>
+<bluebloodWidth value="4"/>
+<bluebloodLowLevel value="3000"/>
+<syncCountMax value="2"/>
+<bluebloodChecktime value="10"/>
+<blockTimes value="30"/>
+<waitCopytime value="27"/>
+<cleanPackageTime value="3"/>
+<cleanPackageX value="62"/>
+<BindHostIdx value="552"/>
+</Copy>
+<Copy>
+<CopyName value="sakura"/>
+<loop_num value="-1"/>
+<taskType value="8"/>
+<direction value="1"/>
+<role value="1"/>
+<groupid value="0"/>
+<maxBlueFiled value="4"/>
+<minBlue value="4"/>
+<blueThreshold value="3000"/>
+<alarmServer value="127.0.0.1"/>
+<alarmPort value="9191"/>
+<alarmHostIndex value="0"/>
+<playWndIndexVal value="0"/>
+<Wait2Sleep value="0"/>
+<exitGameCopyFull value="1"/>
+<cleanPackageWhenStart value="1"/>
+<callbabydie value="0"/>
+<bluebloodWidth value="4"/>
+<bluebloodLowLevel value="3000"/>
+<syncCountMax value="2"/>
+<bluebloodChecktime value="10"/>
+<blockTimes value="30"/>
+<waitCopytime value="27"/>
+<cleanPackageTime value="3"/>
+<cleanPackageX value="1634942"/>
+<BindHostIdx value="869990828"/>
+</Copy>
+<Copy>
+<CopyName value="dotask"/>
+<loop_num value="-1"/>
+<taskType value="9"/>
+<direction value="1"/>
+<role value="1"/>
+<groupid value="0"/>
+<maxBlueFiled value="4"/>
+<minBlue value="4"/>
+<blueThreshold value="3000"/>
+<alarmServer value="127.0.0.1"/>
+<alarmPort value="9191"/>
+<alarmHostIndex value="0"/>
+<playWndIndexVal value="0"/>
+<Wait2Sleep value="0"/>
+<exitGameCopyFull value="1"/>
+<cleanPackageWhenStart value="1"/>
+<callbabydie value="0"/>
+<bluebloodWidth value="4"/>
+<bluebloodLowLevel value="3000"/>
+<syncCountMax value="2"/>
+<bluebloodChecktime value="10"/>
+<blockTimes value="30"/>
+<waitCopytime value="27"/>
+<cleanPackageTime value="3"/>
+<cleanPackageX value="1636030"/>
+<BindHostIdx value="2006360436"/>
+</Copy>
+<Copy>
+<CopyName value="fight"/>
+<loop_num value="-1"/>
+<taskType value="10"/>
+<direction value="1"/>
+<role value="1"/>
+<groupid value="0"/>
+<maxBlueFiled value="4"/>
+<minBlue value="4"/>
+<blueThreshold value="3000"/>
+<alarmServer value="127.0.0.1"/>
+<alarmPort value="9191"/>
+<alarmHostIndex value="0"/>
+<playWndIndexVal value="0"/>
+<Wait2Sleep value="0"/>
+<exitGameCopyFull value="1"/>
+<cleanPackageWhenStart value="1"/>
+<callbabydie value="0"/>
+<bluebloodWidth value="4"/>
+<bluebloodLowLevel value="3000"/>
+<syncCountMax value="2"/>
+<bluebloodChecktime value="10"/>
+<blockTimes value="30"/>
+<waitCopytime value="27"/>
+<cleanPackageTime value="3"/>
+<cleanPackageX value="62"/>
+<BindHostIdx value="1635660"/>
+</Copy>
+<Copy>
+<CopyName value="signle"/>
+<loop_num value="-1"/>
+<taskType value="11"/>
+<direction value="1"/>
+<role value="1"/>
+<groupid value="0"/>
+<maxBlueFiled value="4"/>
+<minBlue value="4"/>
+<blueThreshold value="3000"/>
+<alarmServer value="127.0.0.1"/>
+<alarmPort value="9191"/>
+<alarmHostIndex value="0"/>
+<playWndIndexVal value="0"/>
+<Wait2Sleep value="0"/>
+<exitGameCopyFull value="1"/>
+<cleanPackageWhenStart value="1"/>
+<callbabydie value="0"/>
+<bluebloodWidth value="4"/>
+<bluebloodLowLevel value="3000"/>
+<syncCountMax value="2"/>
+<bluebloodChecktime value="10"/>
+<blockTimes value="30"/>
+<waitCopytime value="27"/>
+<cleanPackageTime value="3"/>
+<cleanPackageX value="2006311039"/>
+<BindHostIdx value="0"/>
+</Copy>
+<Copy>
+<CopyName value="pirate"/>
+<loop_num value="-1"/>
+<taskType value="12"/>
+<direction value="1"/>
+<role value="1"/>
+<groupid value="0"/>
+<maxBlueFiled value="4"/>
+<minBlue value="4"/>
+<blueThreshold value="3000"/>
+<alarmServer value="127.0.0.1"/>
+<alarmPort value="9191"/>
+<alarmHostIndex value="0"/>
+<playWndIndexVal value="0"/>
+<Wait2Sleep value="0"/>
+<exitGameCopyFull value="1"/>
+<cleanPackageWhenStart value="1"/>
+<callbabydie value="0"/>
+<bluebloodWidth value="4"/>
+<bluebloodLowLevel value="3000"/>
+<syncCountMax value="2"/>
+<bluebloodChecktime value="10"/>
+<blockTimes value="30"/>
+<waitCopytime value="27"/>
+<cleanPackageTime value="3"/>
+<cleanPackageX value="1636158"/>
+<BindHostIdx value="7405880"/>
+</Copy>
+<Copy>
+<CopyName value="fire"/>
+<loop_num value="-1"/>
+<taskType value="13"/>
+<direction value="1"/>
+<role value="1"/>
+<groupid value="0"/>
+<maxBlueFiled value="4"/>
+<minBlue value="4"/>
+<blueThreshold value="3000"/>
+<alarmServer value="127.0.0.1"/>
+<alarmPort value="9191"/>
+<alarmHostIndex value="0"/>
+<playWndIndexVal value="0"/>
+<Wait2Sleep value="0"/>
+<exitGameCopyFull value="1"/>
+<cleanPackageWhenStart value="1"/>
+<callbabydie value="0"/>
+<bluebloodWidth value="4"/>
+<bluebloodLowLevel value="3000"/>
+<syncCountMax value="2"/>
+<bluebloodChecktime value="10"/>
+<blockTimes value="30"/>
+<waitCopytime value="27"/>
+<cleanPackageTime value="3"/>
+<cleanPackageX value="63"/>
+<BindHostIdx value="36161952"/>
+</Copy>
+<Copy>
+<CopyName value="021"/>
+<loop_num value="-1"/>
+<taskType value="5"/>
+<direction value="1"/>
+<role value="1"/>
+<groupid value="0"/>
+<maxBlueFiled value="4"/>
+<minBlue value="4"/>
+<blueThreshold value="3000"/>
+<alarmServer value="127.0.0.1"/>
+<alarmPort value="9191"/>
+<alarmHostIndex value="0"/>
+<playWndIndexVal value="0"/>
+<Wait2Sleep value="0"/>
+<exitGameCopyFull value="1"/>
+<cleanPackageWhenStart value="1"/>
+<callbabydie value="0"/>
+<bluebloodWidth value="4"/>
+<bluebloodLowLevel value="3000"/>
+<syncCountMax value="2"/>
+<bluebloodChecktime value="10"/>
+<blockTimes value="30"/>
+<waitCopytime value="27"/>
+<cleanPackageTime value="3"/>
+<cleanPackageX value="46006334"/>
+<BindHostIdx value="1940067698"/>
+</Copy>
+<Copy>
+<CopyName value="snapshot"/>
+<loop_num value="-1"/>
+<taskType value="14"/>
+<direction value="1"/>
+<role value="1"/>
+<groupid value="0"/>
+<maxBlueFiled value="4"/>
+<minBlue value="4"/>
+<blueThreshold value="3000"/>
+<alarmServer value="127.0.0.1"/>
+<alarmPort value="9191"/>
+<alarmHostIndex value="0"/>
+<playWndIndexVal value="0"/>
+<Wait2Sleep value="0"/>
+<exitGameCopyFull value="1"/>
+<cleanPackageWhenStart value="1"/>
+<callbabydie value="0"/>
+<bluebloodWidth value="4"/>
+<bluebloodLowLevel value="3000"/>
+<syncCountMax value="2"/>
+<bluebloodChecktime value="10"/>
+<blockTimes value="30"/>
+<waitCopytime value="27"/>
+<cleanPackageTime value="3"/>
+<cleanPackageX value="63"/>
+<BindHostIdx value="3735964"/>
+</Copy>
+<Copy>
+<CopyName value="ExPirate"/>
+<loop_num value="-1"/>
+<taskType value="18"/>
+<direction value="0"/>
+<role value="1"/>
+<groupid value="0"/>
+<maxBlueFiled value="4"/>
+<minBlue value="4"/>
+<blueThreshold value="3000"/>
+<alarmServer value="127.0.0.1"/>
+<alarmPort value="9191"/>
+<alarmHostIndex value="0"/>
+<playWndIndexVal value="0"/>
+<Wait2Sleep value="0"/>
+<exitGameCopyFull value="1"/>
+<cleanPackageWhenStart value="1"/>
+<callbabydie value="0"/>
+<bluebloodWidth value="4"/>
+<bluebloodLowLevel value="3000"/>
+<syncCountMax value="2"/>
+<bluebloodChecktime value="10"/>
+<blockTimes value="30"/>
+<waitCopytime value="27"/>
+<cleanPackageTime value="3"/>
+<cleanPackageX value="62"/>
+<BindHostIdx value="1971346968"/>
+</Copy>
+<Copy>
+<CopyName value="175"/>
+<loop_num value="-1"/>
+<taskType value="1"/>
+<direction value="1"/>
+<role value="1"/>
+<groupid value="0"/>
+<maxBlueFiled value="4"/>
+<minBlue value="4"/>
+<blueThreshold value="3000"/>
+<alarmServer value="127.0.0.1"/>
+<alarmPort value="9191"/>
+<alarmHostIndex value="0"/>
+<playWndIndexVal value="0"/>
+<Wait2Sleep value="0"/>
+<exitGameCopyFull value="1"/>
+<cleanPackageWhenStart value="1"/>
+<callbabydie value="0"/>
+<bluebloodWidth value="4"/>
+<bluebloodLowLevel value="3000"/>
+<syncCountMax value="2"/>
+<bluebloodChecktime value="10"/>
+<blockTimes value="30"/>
+<waitCopytime value="27"/>
+<cleanPackageTime value="3"/>
+<cleanPackageX value="-2"/>
+<BindHostIdx value="7659880"/>
+</Copy>
+<Copy>
+<CopyName value="Ex175"/>
+<loop_num value="-1"/>
+<taskType value="19"/>
+<direction value="1"/>
+<role value="1"/>
+<groupid value="0"/>
+<maxBlueFiled value="4"/>
+<minBlue value="4"/>
+<blueThreshold value="3000"/>
+<alarmServer value="127.0.0.1"/>
+<alarmPort value="9191"/>
+<alarmHostIndex value="0"/>
+<playWndIndexVal value="0"/>
+<Wait2Sleep value="0"/>
+<exitGameCopyFull value="1"/>
+<cleanPackageWhenStart value="1"/>
+<callbabydie value="0"/>
+<bluebloodWidth value="4"/>
+<bluebloodLowLevel value="3000"/>
+<syncCountMax value="2"/>
+<bluebloodChecktime value="10"/>
+<blockTimes value="30"/>
+<waitCopytime value="27"/>
+<cleanPackageTime value="3"/>
+<cleanPackageX value="62"/>
+<BindHostIdx value="1976983064"/>
+</Copy>
+<Copy>
+<CopyName value="TeamGroup"/>
+<loop_num value="-1"/>
+<taskType value="20"/>
+<direction value="-1"/>
+<role value="1"/>
+<groupid value="0"/>
+<maxBlueFiled value="4"/>
+<minBlue value="4"/>
+<blueThreshold value="3000"/>
+<alarmServer value="127.0.0.1"/>
+<alarmPort value="9191"/>
+<alarmHostIndex value="0"/>
+<playWndIndexVal value="0"/>
+<Wait2Sleep value="0"/>
+<exitGameCopyFull value="1"/>
+<cleanPackageWhenStart value="1"/>
+<callbabydie value="0"/>
+<bluebloodWidth value="4"/>
+<bluebloodLowLevel value="3000"/>
+<syncCountMax value="2"/>
+<bluebloodChecktime value="10"/>
+<blockTimes value="30"/>
+<waitCopytime value="27"/>
+<cleanPackageTime value="3"/>
+<cleanPackageX value="62"/>
+<BindHostIdx value="1976983064"/>
+</Copy>
+</Root>

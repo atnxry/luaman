@@ -1,0 +1,5 @@
+usr1 passwd1 passwdex1
+usr2 passwd2 passwdex2
+
+usr3 passwd3 passwdex3
+

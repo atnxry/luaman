@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root>
+	<Account>
+		<Bindwnd value="0"/>
+		<Lastnr value="0"/>
+		<Username value="usr001"/>
+		<Password value="966699"/>
+		<Passwordex value="9999"/>
+	</Account>
+	<Account>
+		<Bindwnd value="1"/>
+		<Lastnr value="0"/>
+		<Username value="usr011"/>
+		<Password value="966699"/>
+		<Passwordex value="9999"/>
+	</Account>
+	<Account>
+		<Bindwnd value="2"/>
+		<Lastnr value="0"/>
+		<Username value="usr021"/>
+		<Password value="966699"/>
+		<Passwordex value="9999"/>
+	</Account>
+	<Account>
+		<Bindwnd value="3"/>
+		<Lastnr value="0"/>
+		<Username value="usr031"/>
+		<Password value="966699"/>
+		<Passwordex value="9999"/>
+	</Account>
+	<Account>
+		<Bindwnd value="4"/>
+		<Lastnr value="0"/>
+		<Username value="usr041"/>
+		<Password value="966699"/>
+		<Passwordex value="9999"/>
+	</Account>
+</Root>

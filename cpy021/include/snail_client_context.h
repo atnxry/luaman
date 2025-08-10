@@ -1,0 +1,20 @@
+#ifndef __SNAIL_CLIENT_CONTEXT_H__
+#define __SNAIL_CLIENT_CONTEXT_H__
+
+typedef enum
+{
+    SNAIL_TASK_STATUS_UNKNOWN = 0,
+    SNAIL_TASK_STATUS_START_PENDING,
+    SNAIL_TASK_STATUS_RUNNING,
+    SNAIL_TASK_STATUS_STOP_PENDING,
+}SNAIL_TASK_STATUS_E;
+
+typedef struct
+{
+    INT32 hwnd;
+    INT32 taskId;
+    SNAIL_TASK_STATUS_E task_status;
+}SNAIL_CLIENT_CONTEXT_S;
+
+
+#endif
